@@ -1,4 +1,5 @@
-# projeto_eda_covid
-Projeto Digital Innovation One em parceria com o Prof. Dr. Neylson Crepalde
+# Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil.
 
-Análise exploratória dos dados do COVID-19 com Python.
+## Projeto Geração Tech Unimed-BH - Ciência de Dadosz
+
+### Análise exploratória dos dados do COVID-19 com Python.
